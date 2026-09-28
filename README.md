@@ -59,3 +59,7 @@ A C# goal-tracking application built using object-oriented programming.
 ## 🎯 Career Goals
 
 I'm working toward a career in software development and cybersecurity. I'm interested in building useful, secure, and reliable software while continuing to grow my technical skills.
+
+## 📊 GitHub Statistics
+
+![Darma's GitHub stats](https://github-readme-stats.vercel.app/api?username=darma2006&show_icons=true)
