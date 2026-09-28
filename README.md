@@ -1,52 +1,61 @@
-# DARMA LOPEZ SOLIS
+# Hi, I'm Darma 👋
 
-Turrialba, Cartago, Costa Rica | [ldarma112@gmail.com](mailto:ldarma112@gmail.com) | +506 7156 9536
-LinkedIn: [www.linkedin.com/in/darma-soley-lopez-solis-27a024332](http://www.linkedin.com/in/darma-soley-lopez-solis-27a024332) | GitHub: github.com/darma2006
+I'm a Software Development student at BYU-Idaho interested in software development and cybersecurity. I enjoy solving problems through programming and learning how different technologies work together.
 
-## EDUCATION
+## 🛠️ Skills & Technologies
 
-Fidelitas
-**Brigham Young University–Idaho**
-Software Development | Expected March 2027
+**Languages**
 
-## TECHNICAL SKILLS
+* C#
+* JavaScript
+* HTML
+* CSS
 
-**Languages:** C#, JavaScript, HTML, CSS
-**Frameworks & Tools:** Next.js, Node.js, Git, GitHub, Docker, Swagger, Jest
-**Databases:** MongoDB, Supabase
-**Development:** REST APIs, OAuth, Web Development
-**Other:** Software Testing, Data Structures, Cybersecurity
+**Frameworks & Tools**
 
-## EXPERIENCE
+* Next.js
+* Node.js
+* Git & GitHub
+* Docker
+* Swagger
+* Jest
 
-**Library Assistant — Public Library**
-Turrialba, Cartago, Costa Rica | January–April
+**Databases**
 
-* Organized and maintained books to keep library materials accessible and organized.
-* Assisted library visitors with questions and requests.
-* Prepared and supported craft activities for library visitors.
+* MongoDB
+* Supabase
 
-## PROJECTS
+**Development**
 
-**Handcrafted Haven — Next.js Marketplace**
+* REST APIs
+* OAuth
+* Web Development
 
-* Developed a marketplace web application using Next.js and Supabase.
-* Implemented product management, user authentication, and shopping cart functionality.
-* Used Git and GitHub for version control and project development.
+## 🚀 Projects
 
-**Scripture API — REST API**
+### Handcrafted Haven
 
-* Developed a REST API using Node.js and MongoDB to manage scriptures, notes, users, and tags.
-* Implemented Google OAuth authentication for user accounts.
-* Tested API endpoints using Jest and documented API routes with Swagger.
+A marketplace web application built with Next.js and Supabase.
 
-**Fitness API — REST API**
+### Scripture API
 
-* Developed a REST API for managing workouts and exercises using Node.js and MongoDB.
-* Implemented OAuth authentication and documented API functionality with Swagger.
+A REST API built with Node.js and MongoDB for managing scriptures, notes, users, and tags.
 
-**Eternal Quest — C# Application**
+### Fitness API
 
-* Developed a C# goal-tracking application using object-oriented programming.
-* Implemented functionality for creating and tracking personal goals.
+A REST API for managing workouts and exercises using Node.js and MongoDB.
 
+### Eternal Quest
+
+A C# goal-tracking application built using object-oriented programming.
+
+## 📚 Currently Learning
+
+* Software Testing
+* Data Structures
+* Web Development
+* Cybersecurity
+
+## 🎯 Career Goals
+
+I'm working toward a career in software development and cybersecurity. I'm interested in building useful, secure, and reliable software while continuing to grow my technical skills.
